@@ -1,0 +1,19 @@
+//PRACTICE PROGRAMS
+
+Day 1: Generate Multiplication table of a Given No.
+Day 2:Find Sum of first n natural no. in O(n) then O(1) (with derivation)
+Day 3:Largest No in an array
+Day 4:Find Prime No.
+Day 5:Convert Decimal No. to Binary No.
+Day 6:Reverse a No.
+Day 7:Calculate factorial of a no.
+Day 8:Print star pattern-1
+Day 9:Reverse a string
+Day 10:Print prime No. in a given range
+Day 11:Star pattern - 2
+Day 12:Star pattern - 3
+Day 13:Star Pattern-4
+Day 14:Number pattern - 1
+Day 15:Star pattern - 5
+Day 16:Count number of digits in an integer
+Day 17:Calculate Power of a No.
